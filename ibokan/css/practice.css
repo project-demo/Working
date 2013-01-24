@@ -1,0 +1,132 @@
+#practice .practice-whole{
+	width:978px;
+	margin:0 auto;
+}
+#practice .practice-s{
+	width:978px;
+	overflow:hidden;
+}
+#practice .practice-sLs{
+	width:702px;height:178px;
+	float:left;
+}
+#practice .practice-sLs .circle-con{
+	height:134px;
+	padding-top:8px;
+}
+#practice .practice-sLs-left{
+	float:left;
+	overflow:hidden;
+	line-height:140px;
+}
+#practice .practice-sLs-centre{
+	margin:0 auto;
+	width:655px;
+	height:130px;
+}
+#practice .practice-sLs-centre div{
+	float:left;
+	margin:0 11px;
+	_display:inline;
+	overflow:hidden;
+}
+#practice .practice-sLs-right{
+	float:right;
+	overflow:hidden;
+	line-height:140px;
+}
+#practice .practice-sRs{
+	width:260px;
+	float:right;height:178px;
+}
+#practice .practice-sRs .circle-con{
+	height:142px;
+}
+#practice .practice-sLx{
+	width:702px;height:429px;
+	float:left;
+	margin-top:15px;
+}
+#practice .practice-sLx .circle-con{
+	height:377px;
+	padding:16px 17px 0 17px;
+}
+#practice .practice-sLx-left{
+	width:500px;
+	float:left;overflow:hidden;
+}
+#practice .practice-sLx-left span{
+	color:#989898;
+	font-size:13px;
+}
+#practice .practice-sLx-right{
+	width:155px;overflow:hidden;
+	float:right;
+}
+#practice .practice-sRc{
+	float:right;width:260px;height:212px;
+	margin-top:15px;
+}
+#practice .practice-sRc .circle-con{
+	height:176px;
+}
+#practice .practice-sRx{
+	float:right;width:260px;height:202px;
+	margin-top:15px;
+}
+#practice .practice-sRx .circle-con{
+	height:166px;
+}
+#practice .practice-x{
+	width:978px;
+	overflow:hidden;
+	margin:15px 0 30px 0;
+}
+/*3G培训心得*/
+#practice .job-left-musings{
+	float:left;
+	margin-top:0;
+	background-color:white;
+}
+#practice .job-left-musings dl{
+	overflow:hidden;
+	padding-top:8px;
+	background:url(../images/teacher/teacherbj.gif) 0 bottom repeat-x;
+}
+#practice .job-left-musings dt{
+	float:left;
+	margin-left:17px;
+}
+#practice .job-left-major{
+	height:57px;
+	overflow:hidden;
+	line-height:20px;
+}
+#practice .job-left-name{
+	font-size:12px;
+}
+#practice .job-left-musings .job-left-dl-te{
+	background:none;
+}
+#practice .job-left-musings dd{
+	color:#6e6e6e;
+	width:507px;
+	float:left;
+	margin-left:18px;
+	display:inline;
+}
+#practice .job-left-musings .circle{
+	width:702px;
+}
+#practice .job-left-musings .circle-con dl{
+	padding-top:6px;
+}
+/**/
+#practice .practice-xR{
+	width:260px;
+	height:492px;
+	float:right;
+}
+#practice .practice-xR .circle-con{
+	height:456px;
+}
